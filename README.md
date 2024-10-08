@@ -35,7 +35,7 @@ Now, I wish to exploit my experience in software testing. Currently, I am intens
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1VVV07EyHd01kY39-nlAHW6cQdMziihDR/view?usp=drive_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1PfUXUoWZrAbleizikyjM5cIp_n--B4Pw/view?usp=drive_link).
 
 ## Skills
 
