@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandros Tosunidis</h1>
-<h3 align="center">Junior QA Engineer & C# Developer</h3>
+<h3 align="center">Mid QA Engineer & Cybersecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyesy&label=Profile%20views&color=0e75b6&style=flat" alt="eyesy" /> </p>
 
